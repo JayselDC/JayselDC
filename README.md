@@ -28,7 +28,7 @@ I've had over 4 years of experience as a developer in one of the largest digital
                                 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
                     </p>
                     
-                  ### Socials
+Socials
                   
                   
                 <p align="left">
