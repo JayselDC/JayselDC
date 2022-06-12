@@ -7,7 +7,6 @@ Web/Mobile Developer & Designer
 I've had over 4 years of experience as a developer in one of the largest digital consulting firms globally, with this I've built a diverse skill set and expertise on a broad number of topics including DevOps, Mobile, Frontend, and Web3. I've also got over 2 years of freelance development working on non-enterprise projects with a primary focus on Frontend and UI/UX.
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [delacruz.jaysel@hotmail.com](mailto:delacruz.jaysel@hotmail.com)
 * 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on React, Web3, Flutter
 
@@ -31,11 +30,6 @@ I've had over 4 years of experience as a developer in one of the largest digital
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/JayselDC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jayseldc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
